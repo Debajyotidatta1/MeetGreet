@@ -6,4 +6,4 @@
      * Realtime chat functionality (SocketIO and MongoDB)
      * Creating Video Group Call Rooms
 3. In this app I have combined MERN Stack which stands for: MongoDB, Express, React, Node with WebRTC and SocketIO for realtime communication possibility.
-4. I have used SocketIO as our signaling server for this application and for realtime communication.
+4. I have used SocketIO as a signaling server for this application and for realtime communication.
